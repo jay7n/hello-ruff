@@ -1,0 +1,16 @@
+{
+    "name": "hello-ruff",
+    "version": "0.1.0",
+    "description": "",
+    "author": "",
+    "main": "src/mystuff.js",
+    "ruff": {
+        "boards": {
+            "ruff-mbd-v1": "^4.2.2",
+            "*": "*"
+        },
+        "dependencies": {
+            "button-gpio": "^2.0.6"
+        }
+    }
+}
