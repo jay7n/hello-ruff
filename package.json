@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "description": "",
     "author": "",
-    "main": "src/mystuff.js",
+    "main": "src/nursing-log.js",
     "ruff": {
         "boards": {
             "ruff-mbd-v1": "^4.2.2",

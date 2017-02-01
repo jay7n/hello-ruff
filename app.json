@@ -1,7 +1,7 @@
 {
     "devices": [
         {
-            "id": "button",
+            "id": "button-blue",
             "model": "CK002",
             "driver": "button-gpio",
             "inputs": {
