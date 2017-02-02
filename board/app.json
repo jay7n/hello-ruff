@@ -1,0 +1,32 @@
+{
+    "devices": [
+        {
+            "id": "button-blue",
+            "model": "CK002",
+            "driver": "button-gpio",
+            "inputs": {
+                "gpio": {
+                    "type": "gpio",
+                    "args": {
+                        "direction": "in",
+                        "edge": "both"
+                    }
+                }
+            }
+        },
+        {
+            "id": "button-red",
+            "model": "CK002",
+            "driver": "button-gpio",
+            "inputs": {
+                "gpio": {
+                    "type": "gpio",
+                    "args": {
+                        "direction": "in",
+                        "edge": "both"
+                    }
+                }
+            }
+        }
+    ]
+}
